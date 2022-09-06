@@ -1,0 +1,8 @@
+517,Lap Trinh Huong Doi Tuong,3,3
+316,Ki Thuat Lap Trinh,3,3
+917,Triet Hoc,3,0
+235,Phuong Phap Tinh,3,2
+812,Tieng Anh 2,3,1
+950,Lap Trinh Web,3,3
+481,Lap Trinh Window,3,3
+231,Toan Roi Rac,3,3

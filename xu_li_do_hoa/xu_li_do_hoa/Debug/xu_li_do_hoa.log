@@ -1,0 +1,36 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\do_hoa.h(28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\xu_le_de.h(1452): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\xu_le_de.h(1505): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\xu_le_de.h(1527): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\xu_le_de.h(1540): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(1427): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(3610): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(3633): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(3657): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(3681): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(4341): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(4357): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(4373): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(4390): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(5352): warning C4018: '>': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(5352): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(5360): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(7943): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8006): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8010): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8017): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8041): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8046): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8049): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\source.cpp(8434): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\administrator\source\repos\xu_li_do_hoa\xu_li_do_hoa\xu_le_de.h(1309): warning C4715: 'kt_trung_ma_mh': not all control paths return a value
+  xu_li_do_hoa.vcxproj -> C:\Users\Administrator\source\repos\xu_li_do_hoa\Debug\xu_li_do_hoa.exe
